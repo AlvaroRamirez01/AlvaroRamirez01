@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola a todos, Bienvenidos a mi perfil de GitHub 👋
 
-<!--
-**AlvaroRamirez01/AlvaroRamirez01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Breve resumen
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Alvaro = {
+    "Localidad" : "Ciudad de Mexico",
+    "Carrera" : "Ciencias de la Computacion UNAM",
+    "Trabajo" : ["Tecnico en sistemas", "Consultor de Redes"]
+    "Lenguajes" : ["Java", "Haskell", "ProLog", "Racket", "Python"],
+    "Herramientas" : ["Flask", "Azure"],
+    "Temas de interes" : ["Sistemas Operativos", "CyberSeguridad", "Desarrollo Web", "Programacion Funcional"],
+    "Pasatiempos" : ["Jugar VideoJuegos", "Ver Anime", "Fabricar MOD's de Sistemas"]
+}
+```
