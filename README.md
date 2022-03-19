@@ -1,6 +1,6 @@
-### Hola a todos, Bienvenidos a mi perfil de GitHub 👋
+# Hola a todos, Bienvenidos a mi perfil de GitHub 👋
 
-## Breve resumen
+### Breve resumen
 
 ```javascript
 const Alvaro = {
