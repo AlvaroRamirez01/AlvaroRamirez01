@@ -6,7 +6,13 @@
 const Alvaro = {
     "Localidad" : "Ciudad de Mexico",
     "Carrera" : "Ciencias de la Computación UNAM",
+<<<<<<< HEAD
     "Trabajo" : ["Técnico en sistemas", "Consultor de Redes"],
+=======
+    "Trabajo" : ["Técnico en sistemas y redes", "Técnico en reparacion de PC's", "Consultor de microservicios"]
+    "Lenguajes" : ["Java", "Haskell", "ProLog", "Racket", "Python"],
+    "Herramientas" : ["Flask", "Azure"],
+>>>>>>> 5aae3fde09a961e54b02331d10ffaf1f10bdc85f
     "Temas de interés" : ["Sistemas Operativos", "CyberSeguridad", "Desarrollo Web", "Programación Funcional"],
     "Pasatiempos" : ["Jugar VideoJuegos", "Ver Anime", "Fabricar MOD's de Sistemas"]
 }
