@@ -98,4 +98,4 @@ const Alvaro = {
 </p>
 
 ## Reproduciendo en Spotify
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=kiedisalvaro&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kiedisalvaro&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kiedisalvaro&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kiedisalvaro&redirect=true)
