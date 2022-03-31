@@ -4,11 +4,11 @@
 
 ```javascript
 const Alvaro = {
-    "Localidad" : "Ciudad de Mexico",
-    "Carrera" : "Ciencias de la Computación UNAM",
-    "Trabajo" : ["Técnico en sistemas y redes", "Técnico en reparacion de PC's", "Consultor de microservicios"],
-    "Temas de interés" : ["Sistemas Operativos", "CyberSeguridad", "Desarrollo Web", "Programación Funcional"],
-    "Pasatiempos" : ["Jugar VideoJuegos", "Ver Anime", "Fabricar MOD's de Sistemas"]
+    Localidad : Ciudad_de_Mexico,
+    Carrera : Ciencias_de_la_Computación_UNAM,
+    Trabajo : [Técnico_en_sistemas_y_redes, Técnico_en_reparación_de_PCs, Consultor_de_microservicios],
+    Temas_de_interés : [Sistemas_Operativos, CyberSeguridad, Desarrollo_Web, Programación_Funcional],
+    Pasatiempos : [Jugar_VideoJuegos, Ver_Anime, Fabricar_MODs_de_Sistemas]
 }
 ```
 
