@@ -92,7 +92,7 @@ const Alvaro = {
 
 <p align='center'>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AlvaroRamirez01&show_icons=true&count_private=true&theme=dark" width="520"></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroRamirez01&show_icons=true&count_private=true&theme=dark" width="300">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroRamirez01&show_icons=true&count_private=true&theme=dark&langs_count=10" width="300">
 <br>
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroRamirez01&show_icons=true&count_private=true&theme=dark" width="600">
 </p>
