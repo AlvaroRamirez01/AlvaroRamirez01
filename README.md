@@ -6,8 +6,8 @@
 const Alvaro = {
     Location : CDMX,
     Career : Computer_Science_UNAM,
-    Job : [Dev_Backend_Jr, Dev_Frontend_Jr, IT Support],
-    Topics_of_interest : [S.O, Redes, Admin_System, DevOps, IoT, IA],
+    Job : [Dev_Backend_Jr, Dev_Frontend_Jr, IT_Support],
+    Topics_of_interest : [S.O, Network, Admin_System, DevOps, IoT, IA],
     Hobbies : [VideoGames, Anime, Music]
 }
 ```
