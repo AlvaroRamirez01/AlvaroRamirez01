@@ -93,6 +93,6 @@ const Alvaro = {
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroRamirez01&show_icons=true&count_private=true&theme=dark" width="600">
 </p>
 
-## [Listening now](#)
+<!-- ## [Listening now](#) -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kiedisalvaro&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kiedisalvaro&redirect=true)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kiedisalvaro&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kiedisalvaro&redirect=true) -->
